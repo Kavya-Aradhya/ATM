@@ -2,11 +2,15 @@
 The ATM machine drawing below depicts the essential components that comprise the basic structure of an ATM machine.
  
 ## How to withdraw money from ATM?
+
 Let us now look at the steps to withdraw money from an ATM.
+
 Step 1: Insert ATM Card:
+
  ![ATM](https://github.com/Kavya-Aradhya/ATM/assets/163634576/da7ad7d4-12f0-4920-b610-769f88492b6b)
  
 Insert your ATM Card in the ATM machine in the slot as marked in the diagram.
+
 ![ATM1](https://github.com/Kavya-Aradhya/ATM/assets/163634576/a03631bb-ef32-49c7-b603-1119fad85886)
 
 Step 2: Enter 4-Digit ATM Pin:
