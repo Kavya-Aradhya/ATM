@@ -36,7 +36,8 @@ Now collect the cash from the lower slot of the machine.
 **Step 7**: Take a printed receipt , if needed:
 After you collect the cash, click Yes if you want to take a print out of the receipt. If not, click No. 
 
-*(Note: If you forget your card, return to the ATM right away to retrieve it. If it’s lost, call your bank and cancel the card right away. Your bank will block it and issue you a new card)* GitHub.\footnote{\url{https://consumer.ftc.gov/articles/lost-or-stolen-credit-atm-and-debit-cards}}
+*(Note: If you forget your card, return to the ATM right away to retrieve it. If it’s lost, call your bank and cancel the card right away. Your bank will block it and issue you a new card)* [^1]
+
 ### Conclusion
 The document contains detailed process about how to withdraw money from ATM.
 
@@ -44,3 +45,6 @@ The document contains detailed process about how to withdraw money from ATM.
 - Never share your PIN with anyone.
 - Cover the keypad while entering the PIN.
 - Be sure to collect the ATM card and cash.
+
+##### Reference
+[^1]: https://consumer.ftc.gov/articles/lost-or-stolen-credit-atm-and-debit-cards
