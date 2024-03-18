@@ -15,8 +15,7 @@ Let us now look at the steps to withdraw money from an ATM.
  
 
 **Step 2**: Enter 4-Digit ATM Pin:
-Use the Keypad to enter your 4-digit ATM PIN number.
-Ensure that nobody is watching you while you enter the PIN.
+Use the Keypad to enter your 4-digit ATM PIN number. Ensure that nobody is watching you while you enter the PIN.
 Entering wrong PIN multiple times may lead to the blockage of the ATM card. Be carefull.
 
 **Step 3**: Select the type of Transaction:
@@ -42,7 +41,7 @@ After you collect the cash, click Yes if you want to take a print out of the rec
 ### Conclusion
 The document contains detailed process about how to withdraw money from ATM.
 
-#### Warnings
+#### ⚠️Warnings
 - Never share your PIN with anyone.
 - Cover the keypad while entering the PIN.
 - Be sure to collect the ATM card and cash.
