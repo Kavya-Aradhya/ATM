@@ -46,4 +46,4 @@ The document contains detailed process about how to withdraw money from ATM.
 - Be sure to collect the ATM card and cash.
 
 ##### Reference
-1. https://consumer.ftc.gov/articles/lost-or-stolen-credit-atm-and-debit-cards
+1. ↑ https://consumer.ftc.gov/articles/lost-or-stolen-credit-atm-and-debit-cards
