@@ -1,11 +1,9 @@
-# How to withdraw money from ATM 
-
-## What is the structure of an ATM Machine?
+# What is the structure of an ATM Machine?
 The ATM (**Automated Teller Machine**) machine drawing below depicts the essential components that comprise the basic structure of an ATM machine.
 
   ![ATM](https://github.com/Kavya-Aradhya/ATM/assets/163634576/da7ad7d4-12f0-4920-b610-769f88492b6b)
 
-### How to withdraw money from ATM?
+## How to withdraw money from ATM?
 
 Let us now look at the steps to withdraw money from an ATM.
 
@@ -40,10 +38,10 @@ After you collect the cash, click Yes if you want to take a print out of the rec
 
 *(Note: If you forget your card, return to the ATM right away to retrieve it. If it’s lost, call your bank and cancel the card right away. Your bank will block it and issue you a new card)* [^1]
 
-#### Conclusion
+### Conclusion
 The document contains detailed process about how to withdraw money from ATM.
 
-##### ⚠️Warnings
+#### ⚠️Warnings
 - Never share your PIN with anyone.
 - Cover the keypad while entering the PIN.
 - Be sure to collect the ATM card and cash.
