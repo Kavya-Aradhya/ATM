@@ -10,6 +10,7 @@ Let us now look at the steps to withdraw money from an ATM.
 **Step 1**: Insert your ATM Card in the ATM machine in the slot as marked in the diagram. 
 
  ![ATM Card](https://github.com/Kavya-Aradhya/ATM/assets/163634576/4df7cad2-bced-41ec-ab60-dd601909e494)
+ Figure1: How to intert the ATM card.
  
 
 **Step 2**: Enter 4-Digit ATM Pin:
