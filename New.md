@@ -33,4 +33,9 @@ Now press enter.
 Now collect the cash from the lower slot of the machine.
 
 **Step 7**: Take a printed receipt , if needed:
-After you collect the cash, you will get an option of whatever you want a printed receipt of the transaction. If you want a printed receipt, click yes and close the transaction.
+After you collect the cash, click Yes if you want to take a print out of the receipt. If not, click No. 
+
+  If you forget your card, return to the ATM right away to retrieve it. If it’s lost, call your bank and cancel the card right away. Your bank will block it and issue you a new card x^2^.
+
+### Conclusion
+The document contains detailed process about how to withdraw money from ATM.
